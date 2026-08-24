@@ -88,11 +88,7 @@ java Calc t.expr
 
 Y se obtiene:
 
-```text
-193
-17
-9
-```
+![ejemplo1](/imagenes/1.png)
 
 El resultado corresponde a las operaciones realizadas en el archivo de prueba.
 
