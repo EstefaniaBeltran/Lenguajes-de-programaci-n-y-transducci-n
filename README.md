@@ -106,13 +106,8 @@ Para comprobar que las operaciones funcionaran correctamente, se agregaron otras
 
 Resultados:
 
-```text
-15
-12
-28
-4
-36
-```
+
+![ejemplo1](/imagenes/2.png)
 
 También se probó el uso de variables:
 
@@ -127,12 +122,8 @@ x/y
 
 Resultados:
 
-```text
-13
-7
-30
-3
-```
+![ejemplo1](/imagenes/3.png)
+
 
 ## Ejecución del proyecto
 
